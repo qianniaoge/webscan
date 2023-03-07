@@ -1,7 +1,5 @@
 module glint
 
-go 1.16
-
 require (
 	github.com/chromedp/cdproto v0.0.0-20220131204822-e6abebe7b8cd
 	github.com/chromedp/chromedp v0.7.7
@@ -26,7 +24,7 @@ require (
 	github.com/tidwall/btree v1.1.0
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/valyala/fasthttp v1.33.0
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
+	golang.org/x/net v0.7.0
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11
 	google.golang.org/genproto v0.0.0-20220204002441-d6cc3cc0770e
 	google.golang.org/protobuf v1.27.1
